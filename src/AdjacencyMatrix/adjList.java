@@ -1,5 +1,7 @@
 package AdjacencyMatrix;
 
+//Adjacency List is most useful for SPARSE Graphs.
+
 class Node{
     int data;
     Node next;

@@ -1,5 +1,6 @@
 package AdjacencyMatrix;
 
+//Adjacency matrix is most useful for DENSE graphs.
 public class AdjMatrix {
     static final int V = 5;
 
