@@ -26,6 +26,14 @@ public class CircularLinkedList
         head.next = middle;
         middle.next = last;
         last.next = head;
+
+        System.out.println("Circular Linked List Elements Are:");
+        Node temp = head;
+        do
+        {
+            System.out.println(temp.data);
+            temp = temp.next;
+        }while(temp != head);
     }
 }
 

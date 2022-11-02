@@ -1,3 +1,5 @@
+package LinkedList;
+
 class Node
 {
     int data;
@@ -9,7 +11,7 @@ public class LinkedList {
     public static void main(String args[]) {
 
         Node head, middle, last;
-        
+
         head = new Node();
         middle = new Node();
         last = new Node();
