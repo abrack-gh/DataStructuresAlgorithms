@@ -1,5 +1,8 @@
 package BinaryHeap;
 
+
+import static java.util.Arrays.swap;
+
 class BinaryHeap
 {
     public void BuildHeap(int arr[],int size)
@@ -8,7 +11,17 @@ class BinaryHeap
         for(; i >= 0; i--)
             Heapify(arr,i,size);
     }
-    public void Heapify(int arr[],int index,int size)
+
+    //Delete max element in heap
+
+    void DeleteMax(int arr[], int index, int size){
+        swap(arr[0],arr[size]);
+        System.out.println("Max = "+arr[size]);
+        size = size - 1;
+        Heapify(arr,0,size);
+    }
+
+    void Heapify(int arr[],int index,int size)
     {
         int left = 2 * index + 1;
         int right = left + 1;
@@ -32,6 +45,7 @@ class BinaryHeap
     System.out.println();
     }
 
+
     public static void main(String args[]){
         BinaryHeap obj = new BinaryHeap();
         int arr[] = {10, 20, 40, 30, 80, 60, 50};
@@ -42,4 +56,5 @@ class BinaryHeap
         System.out.println("Array elements are...");
         obj.print(arr, arr.length);
     }
+
 }
