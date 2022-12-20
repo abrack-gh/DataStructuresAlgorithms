@@ -1,4 +1,4 @@
-package Algorithms.Search;
+package Algorithms;
 
 // Binary Search considers a sorted array and divides it each time until the key is located.
 

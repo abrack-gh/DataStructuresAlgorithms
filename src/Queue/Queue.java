@@ -3,7 +3,7 @@ package Queue;
 
 import java.util.Queue;
 
-class queue{
+class queue {
     static final int SIZE = 3;
     int arr[] = new int[SIZE];
 
@@ -11,27 +11,30 @@ class queue{
     int rear = 0;
 
 
-public void Enueue(int val){
+    public void Enueue(int val) {
 
-    if(rear == SIZE)
-        System.out.println("Queue is full");
-    else{
-        arr[rear] = val;
-        rear++;
+        if (rear == SIZE)
+            System.out.println("Queue is full");
+        else {
+            arr[rear] = val;
+            rear++;
+        }
+
     }
 
-}
-
-public void Dequeue(){
-    if(front == rear)
-        System.out.println("Queue is empty");
-    else{
-        System.out.println("Dequeued element= " +arr[front]);
-        front++;
+    public void Dequeue() {
+        if (front == rear)
+            System.out.println("Queue is empty");
+        else {
+            System.out.println("Dequeued element= " + arr[front]);
+            front++;
+        }
     }
 }
 
-    public static void main(String args[])
+
+/*
+public static void main(String args[])
     {
         Queue q = new Queue();
 
@@ -47,3 +50,6 @@ public void Dequeue(){
         q.dequeue();
         q.dequeue();
     }
+
+
+ */

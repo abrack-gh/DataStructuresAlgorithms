@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6acd020-e5d6-4cd2-b6da-c26b5e4433b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e6acd020-e5d6-4cd2-b6da-c26b5e4433b6" name="Changes" comment="-Added BinarySearch.java algorithm to 'Algorithms'">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdjacencyMatrix/AdjMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdjacencyMatrix/AdjMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdjacencyMatrix/adjList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdjacencyMatrix/adjList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTrees/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularLinkedList/CircularLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircularLinkedList/CircularLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CircularLinkedList/CircularLinkedListAddFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CircularLinkedList/CircularLinkedListAddFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/DLLAddLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DLLAddLast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListAddEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListAddEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListRemove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/LinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/Search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/LinearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/StackUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/StackUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +66,49 @@
       <option name="presentableId" value="Default" />
       <updated>1666772108249</updated>
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1667407308027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667407308027</updated>
+    </task>
+    <task id="LOCAL-00002" summary="..">
+      <created>1667407751164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667407751164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="..">
+      <created>1667555167550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667555167550</updated>
+    </task>
+    <task id="LOCAL-00004" summary="..">
+      <created>1667849683971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667849683971</updated>
+    </task>
+    <task id="LOCAL-00005" summary="-New Java package for Algorithms&#10;-Added LinearSearch.java algorithm to 'Algorithms'">
+      <created>1669633879992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669633879992</updated>
+    </task>
+    <task id="LOCAL-00006" summary="-Added BinarySearch.java algorithm to 'Algorithms'">
+      <created>1669733826037</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669733826038</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +121,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <MESSAGE value="-New Java package for Algorithms&#10;-Added LinearSearch.java algorithm to 'Algorithms'" />
+    <MESSAGE value="-Added BinarySearch.java algorithm to 'Algorithms'" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Added BinarySearch.java algorithm to 'Algorithms'" />
   </component>
 </project>

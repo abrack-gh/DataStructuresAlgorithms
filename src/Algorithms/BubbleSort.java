@@ -1,4 +1,4 @@
-package SortingAlgorithms;
+package Algorithms;
 
 public class BubbleSort {
 
