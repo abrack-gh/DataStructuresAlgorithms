@@ -8,6 +8,7 @@ public class MergeSort {
     //This is 2 sub arrays and the original array will be split into these 2 sub arrays.
     // recursive function. At the end of the function, call MergeSort again.
     //Time complexity: O(n log n) - quasilinear time.
+    //Space complexity: O(n)
 
     public static void main(String[] args) {
         int[] array = {8, 2, 5, 2, 0, 8, 6};
