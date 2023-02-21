@@ -9,7 +9,7 @@ public class Quicksort {
         quickSort(array, 0, array.length - 1);
 
         for(int i : array){
-            System.out.println(i + " ");
+            System.out.print(i + " ");
         }
 
     }
